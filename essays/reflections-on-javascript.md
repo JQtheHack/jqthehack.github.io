@@ -2,11 +2,11 @@
 layout: essay
 type: essay
 title: "My Reflection on Javascript in week 1."
-# All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: true
 labels:
-  - Engineering
+  - Athletic Software Engineering
+  - JavaScript
+  - WOD
 ---
 
 <img src="../images/javascript-1567486564472.jpg" width="700" height="500">
