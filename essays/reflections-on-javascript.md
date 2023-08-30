@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "My Reflection on Javascript in week 1."
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-29
 published: true
 labels:
   - Engineering
@@ -11,44 +11,22 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Javascript was the first language that I dabbled in a class setting. At the time, I was a senior in high school and I found just found joy in programming on Code.org, the website my AP Computer Science Principle teacher wanted us to use. I continued to dabble with web development until 2021, where I promptedly, forgot everything. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Two years later, and here I am trying to desperately relearn everything in the language so I can pass this course and prepare my technical skills to get a job. There are many concepts that I recognize instantly in the language like for loops and switch statements, but there are also many things I don't know, such as the Promise Syntax, Rest Parameters, and many other clever things you can do.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Javascript: Is it Good or Bad?
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+In my opinion, I think Javascript is a good language to introduce someone to the world of programming simply because of how easy and flexible it is to use. In hindsight, with my limited knowledge of the language, I believe that's why my computer science teacher in high school started us off with this language. 
 
-Here's what I think: the difficult things will always be difficult.
+Software Engineering is defined an a kind of engineering approach on software development of a systematic application. Loosely speaking, it is the application of the major aspects of the engineering process, but on software. Key elements such as: design, collaboration, testing, and analysis. These processes are critical for a software engieer as well the focus to persist throughout the process. And I think Javascript is a diverse language that helps complement the developer.
 
-## In the context of programming
+## A WOD?
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+A WOD, or a Workout of the Day, is basically like being given a coding problem for a given time frame. I think this an incredibly effective way of teaching. Often times, when your in a programming class, you are given assignments outside of class time to do. In our increasingly busy lives, we can at times be lethargic and not have the time or will to do programming. When you combine this wtih all the supertools we have for programming, (StackOverflow & Github Copilot) students will absolutely utilize these tools as a crutch at a detriment to their learning. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+The brilliance of a WOD comes in the simple, but effective form of deliberate practice. In a given time period, you have to finish a coding problem. You are given as much time and help to prepare, and the idea is you hopefully come in focused, and determined to not fail this course and pass the WOD.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## Takeaway
 
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In the end, I find Athletic Software Egnineering to be an effective way to push me to do better. I appreciate work and focus this course requires out of you, and rewards you for. I will try to do my best, because this is personally the approach that I believe in.
