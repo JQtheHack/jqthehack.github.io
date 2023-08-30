@@ -11,21 +11,23 @@ labels:
 
 <img src="../images/javascript-1567486564472.jpg" width="700" height="500">
 
-Javascript was the first language that I dabbled in a class setting. At the time, I was a senior in high school and I found just found joy in programming on Code.org, the website my AP Computer Science Principle teacher wanted us to use. I continued to dabble with web development until 2021, where I promptedly, forgot everything. 
+JavaScript was the first language in which I dabbled in a class setting. At the time, I was a senior in high school, and I had just found joy in programming on Code.org, the website that my AP Computer Science Principles teacher wanted us to use. I continued to dabble in web development until 2021 where I promptly, forgot everything.
 
-Two years later, and here I am trying to desperately relearn everything in the language so I can pass this course and prepare my technical skills to get a job. There are many concepts that I recognize instantly in the language like for loops and switch statements, but there are also many things I don't know, such as the Promise Syntax, Rest Parameters, and many other clever things you can do.
+Two years later, and here I am, desperately trying to relearn everything in the language so I can pass this course and prepare my technical skills for a job. While there were many concepts I recognized instantly in the language, such as for loops and switch statements, there are also many things I don't know, such as the Promise syntax, rest parameters, and the many other clever things you can do.
+
+
 
 ## Javascript: Is it Good or Bad?
 
-In my opinion, I think Javascript is a good language to introduce someone to the world of programming simply because of how easy and flexible it is to use. In hindsight, with my limited knowledge of the language, I believe that's why my computer science teacher in high school started us off with this language. 
+In my opinion, I believe JavaScript is a good language to introduce someone to the world of programming, simply because of how easy and flexible it is to use. Looking back, I think that's why my computer science teacher in high school chose to start us off with this language.
 
-Software Engineering is defined an a kind of engineering approach on software development of a systematic application. Loosely speaking, it is the application of the major aspects of the engineering process, but on software. Key elements such as: design, collaboration, testing, and analysis. These processes are critical for a software engieer as well the focus to persist throughout the process. And I think Javascript is a diverse language that helps complement the developer.
+Software Engineering is defined as a kind of engineering approach to software development, emphasizing systematic application. Loosely speaking, it applies the key aspects of the engineering process to software, including elements such as design, collaboration, testing, and analysis. These processes are crucial for a software engineer, as well as the focus needed to persist throughout the entire process. I believe JavaScript is a versatile language that complements the  developers.
 
 ## A WOD?
 
-A WOD, or a Workout of the Day, is basically like being given a coding problem for a given time frame. I think this an incredibly effective way of teaching. Often times, when your in a programming class, you are given assignments outside of class time to do. In our increasingly busy lives, we can at times be lethargic and not have the time or will to do programming. When you combine this wtih all the supertools we have for programming, (StackOverflow & Github Copilot) students will absolutely utilize these tools as a crutch at a detriment to their learning. 
+A WOD, or a Workout of the Day, is basically like being given a coding problem for a given time frame. I think this is an incredibly effective way of teaching. Often times, when you are in a programming class, you are given assignments outside of class time to do. In our increasingly busy lives, we can at times be lethargic and not have the time or will to do programming. When you combine this wtih all the supertools we have for programming, (StackOverflow & Github Copilot) students will absolutely utilize these tools as a crutch, ultimately impeding their learning. 
 
-The brilliance of a WOD comes in the simple, but effective form of deliberate practice. In a given time period, you have to finish a coding problem. You are given as much time and help to prepare, and the idea is you hopefully come in focused, and determined to not fail this course and pass the WOD.
+The brilliance of a WOD comes in the simple, but effective form of deliberate practice. In a given time period, you must complete a coding problem. You are given as much time and help to prepare, and the idea is you hopefully come in focused and determined to not fail this course and pass the WOD.
 
 ## Takeaway
 
