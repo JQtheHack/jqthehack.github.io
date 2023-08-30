@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Reflection on Javascript in week 1."
+title: "My Reflection on Javascript in week 1"
 date: 2023-08-29
 labels:
   - Athletic Software Engineering
