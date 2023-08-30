@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img src="../images/javascript-1567486564472.jpg" width="700" height="500">
 
 Javascript was the first language that I dabbled in a class setting. At the time, I was a senior in high school and I found just found joy in programming on Code.org, the website my AP Computer Science Principle teacher wanted us to use. I continued to dabble with web development until 2021, where I promptedly, forgot everything. 
 
