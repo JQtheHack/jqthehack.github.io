@@ -12,6 +12,6 @@ summary: "A that manipulates strings in various ways."
 
 <img class="img-fluid" src="../images/staircase-code.PNG">
 
-Word Staircase is a very basic project as a part of my courseload in ICS 212 in the Spring 2023 semester. The program in essence just manipulates a string you give it in different ways, such as applying lowercase, uppercase, or togglecase to the string and creating a staircase pattern with it.
+Word Staircase is a very basic project as a part of my coursework in ICS 212 during the Spring 2023 semester. The program essentially manipulates a string you provide in various ways, such as converting it to lowercase, uppercase, or toggle case, and creating a staircase pattern with it.
 
-In this project I gained a stronger sense of how methods work and how to implement them in a practical manner. Having practiced the different use cases for these methods, I gained the ability to recognize when I can add them to any future projects.
+In this project, I gained a stronger understanding of how methods function and how to apply them in a practical context. By practicing various use cases for these methods, I developed the ability to recognize when I can incorporate them into future projects
