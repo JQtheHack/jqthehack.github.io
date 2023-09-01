@@ -2,14 +2,11 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
+title: "Word Staircase"
 date: 2015
-published: false
+published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - C
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
