@@ -8,7 +8,7 @@ labels:
   - Background
 ---
 
-<img class="img-fluid" src="../images/software-engineer.webp">
+<img src="../images/software-engineer.webp">
 
 ## Why
 Software Engineering has always been something that I can comfortably do. I always felt that this is the path I would take since dating back to middle school, when I began programming at 14. However, despite me starting at a young age, it's not something that I have passion for or love to do in my free time (my true passion is sports and reading). I just found it as something I could do as a career.
