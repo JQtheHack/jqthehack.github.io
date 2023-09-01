@@ -9,7 +9,7 @@ labels:
   - WOD
 ---
 
-<img class="img-fluid" alt="crooked road" src="../images/javascript-1567486564472.jpg">
+<img class="img-fluid" src="../images/javascript-1567486564472.jpg">
 
 JavaScript was the first language in which I dabbled in a class setting. At the time, I was a senior in high school, and I had just found joy in programming on Code.org, the website that my AP Computer Science Principles teacher wanted us to use. I continued to dabble in web development until 2021 where I promptly, forgot everything.
 
