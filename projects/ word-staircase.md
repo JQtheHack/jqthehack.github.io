@@ -10,7 +10,7 @@ labels:
 summary: "A that manipulates strings in various ways."
 ---
 
-<img class="img-fluid" src="../images/staircase-code.png">
+<img class="img-fluid" src="../images/staircase-code.PNG">
 
 Word Staircase is a very basic project as a part of my courseload in ICS 212 in the Spring 2023 semester. The program in essence just manipulates a string you give it in different ways, such as applying lowercase, uppercase, or togglecase to the string and creating a staircase pattern with it.
 
