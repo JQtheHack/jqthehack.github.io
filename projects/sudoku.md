@@ -6,7 +6,7 @@ title: "Sudoku Solver"
 date: 2023
 published: true
 labels:
-  - C
+  - Java
 summary: "A sudoku solver capable of solving any sudoku problem."
 ---
 
