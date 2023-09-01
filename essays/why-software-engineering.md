@@ -2,13 +2,13 @@
 layout: essay
 type: essay
 title: "Why Software Engineering?"
-date: 2023-08-29
+date: 2023-08-31
 published: true
 labels:
   - Background
 ---
 
-<img src="../images/javascript-1567486564472.jpg" width="700" height="500">
+<img class="img-fluid" alt="crooked road" src="../images/software-engineer.webp">
 
 ## Why
 Software Engineering has always been something that I can comfortably do. I always felt that this is the path I would take since dating back to middle school, when I began programming at 14. However, despite me starting at a young age, it's not something that I have passion for or love to do in my free time (my true passion is sports and reading). I just found it as something I could do as a career.
