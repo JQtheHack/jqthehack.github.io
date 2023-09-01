@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/cute-calculator-square.png
+image: images/cute-calculator-square.png
 title: "Calculator"
 date: 2023
 published: true
