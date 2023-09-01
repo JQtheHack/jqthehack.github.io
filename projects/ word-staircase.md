@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - C
-summary: "A that manipulates strings in various ways."
+summary: "A program that manipulates strings in various ways."
 ---
 
 <img class="img-fluid" src="../images/staircase-code.PNG">
