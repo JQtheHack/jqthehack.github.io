@@ -2,12 +2,12 @@
   "basics": {
     "name": "Jeric Quintans",
     "label": "Student",
-    "picture": "",
+    "picture": "/image/profile.png",
     "email": "jeric.quintansm@gmail.com",
     "phone": "808-436-3493",
     "website": "https://jqthehack.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jqthehack", "url": "https://github.com/JQtheHack" },
       { "network": "linkedin", "username": "Jeric M Quintans", "url": "https://linkedin.com/in/jeric-m-quintans" }
@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Windows", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
