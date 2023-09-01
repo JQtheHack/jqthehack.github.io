@@ -1,25 +1,17 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: images/word-staircase-square.PNG
 title: "Word Staircase"
-date: 2015
+date: 2023
 published: true
 labels:
   - C
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A that manipulates strings in various ways."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../images/staircase-code.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Word Staircase is a very basic project as a part of my courseload in ICS 212 in the Spring 2023 semester. The program in essence just manipulates a string you give it in different ways, such as applying lowercase, uppercase, or togglecase to the string and creating a staircase pattern with it.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+In this project I gained a stronger sense of how methods work and how to implement them in a practical manner. Having practiced the different use cases for these methods, I gained the ability to recognize when I can add them to any future projects.
