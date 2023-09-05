@@ -2,14 +2,14 @@
 layout: essay
 type: essay
 title: "Programming Quickly... Is Challenging"
-date: 2023-09-4
+date: 2023-09-04
 published: true
 labels:
   - Programming
   - WOD
 ---
 
-<img src="../images/stress.png">
+<img src="../images/stress.jpg">
 
 ## Pace
 The thing that I quickly learned about this class is that it's very fast! Having to quickly and efficiently do my work made me realize that I need to focus more. For this first WOD, I felt like it was quite an easy problem, however I quickly realized from doing the future practice WOD's that that won't always be the case. The very first problem felt more like a warmup than an actual real programming challenge, and although I haven't taken the second WOD yet, the practice WODs feel as if they are degrees harder.
