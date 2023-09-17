@@ -5,7 +5,8 @@ title: "Why You Need Coding Standards"
 date: 2023-09-17
 published: true
 labels:
-  - Background
+  - Programming
+  - Software Development
 ---
 
 <img src="../images/coding-standards.png" alt="">
