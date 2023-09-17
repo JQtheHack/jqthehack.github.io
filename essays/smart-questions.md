@@ -8,7 +8,12 @@ labels:
   - Software Engineering
   - StackOverflow
 ---
+
+### Eventually I'll Need It.
+
 When I started learning how to program, I never really asked questions about anything. That's because everything that I ever could ask, was already answered. Whenever I had an issue I would take a visit to StackOverflow, Reddit, Youtube or even just some random website with some code on it. I've never truly needed to ask a problem about how to deal with anything since someone somewhere has already experienced the issue I'm currently having. However, as the course progresses I feel that that won't always be the case. Eventually, there will be a time when I won't be able to rely on the already available resources on the internet and I'll need some guidance to push forward on a problem.
+
+### A Good & Bad Question
 
 Being able stuck on a problem is normal, and everyone who has programmed for long enough can relate to this feeling. So as I read through Eric Raymond's "[How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html#idm379)", I gained a greater awareness for the culture, and insight into why programmers react the way they do when it comes to answering questions. I respect the attention to detail, and I enjoyed learning about the 'correct' way to ask a question in one of these forums. 
 
