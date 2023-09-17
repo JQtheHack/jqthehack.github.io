@@ -13,8 +13,8 @@ labels:
 
 ## Importance
 
-It can certainly be annoying when using any coding standard. Having to care about little things like indentation, the seemingly inconsequential white space, or maybe even how you place your braces. However, while it can be easy to dismiss the importance of 
-coding standards because of the nuisance it can be, they are one of the many important aspects of successful software development.
+People come from many different areas and background with differing levels of experience, and as a result we think and do things differently. And so, a coding style helps lay down the law in terms of how we want our code to look. And while it can 
+certainly be annoying having to care about little things like indentation, white space, or how your braces look, it can often have us dismissing the idea of using them in the first place. However, despite the annoyance a coding standard may provide, they are one of the many important aspects of successful software development. 
 
 ### So Why?
 
