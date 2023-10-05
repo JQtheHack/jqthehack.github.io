@@ -6,7 +6,7 @@ date: 2023-10-04
 published: true
 labels:
   - Programming
-  - Software Development
+  - Web Development
 ---
 
 <img src="../images/bootstrap-main.png" alt="">
