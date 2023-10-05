@@ -1,29 +1,40 @@
 ---
 layout: essay
 type: essay
-title: "Why You Need Coding Standards"
-date: 2023-09-17
+title: "The Value of UI Frameworks"
+date: 2023-10-04
 published: true
 labels:
   - Programming
   - Software Development
 ---
 
-<img src="../images/coding-standards.png" alt="">
+<img src="../images/bootstrap-main.png" alt="">
 
-## Importance
+## HTML & CSS
 
-People come from many different areas and background with differing levels of experience, and as a result we think and do things differently. And so, a coding style helps lay down the law in terms of how we want our code to look. And while it can 
-certainly be annoying having to care about little things like indentation, white space, or how your braces look, it can often have us dismissing the idea of using them in the first place. However, despite the annoyance a coding standard may provide, they are one of the many important aspects of successful software development. 
+Prior to using frameworks, I used HTML & CSS for the past few weeks to do my webpages. I realized that it's quite a lot of work to set up, and you have to be very precise when you write your code. Using HTML and CSS, I noticed that it's much
+harder to find errors in your code because it's very lenient compared to a programming language. The only point of feedback you have is to inspect the page, and fix it with trial and error. That's not as helpful to me compared to seeing an error
+code and being able to resolve it more quickly. Another thing with HTML and CSS especially is the reuse of a lot of code. Sometimes, because a thing isn't working, you have to add random padding and margin to it. This can cause a lot of the same
+code to be rewritten, and that's never a good thing when programming.
 
-### So Why?
+## Working With Bootstrap
 
-Coding standards are not just small cosmetic nuisances that you have to correct. They are a standard for how a team of developers must write and structure their code. Whilst some standards may seem pointless, many serve a critical role in 
-consistency & readability. Let's imagine a scenario where you had to look through documentation on a topic you were interested in learning about. Now, what if for every section, it had a different font, font size, spacing, color, etc.. You could 
-certainly still read it, however it would take a considerable amount of unecessary effort to deal with. You'd think to yourself "why couldn't everything just be the same?". That's the same for programming as it is writing.
+When I saw the future WODS we were doing in my assignment, I thought it was incredibly ridiculous the amount of work we would be getting. However, once I really worked with a framework it wasn't anywhere near as bad as it seems. That's because
+Bootstrap, the framework we use, provides lots of reusable bits of code that allows you to easily design webpages and implement functionality without being a ninja at HTML and CSS. I also really liked how easy it was to just add a few couple
+lines of code and be able to use it very easily. The only downside with using Bootstrap was that there was an added complexity with learning how to design a webpage. That being that HTML & CSS is tied when you are using a framework. That
+complicates bigger project because how do you debug styling errors if styling is done in both the HTML & CSS?
 
-## My Impressions of Coding Standards
+## Final Thoughts
 
-After my first week of using ESLint, I find it painful to install and a pain to have. However, despite my initial grievances with having it setup, I believe that it will help anyone who wants to look over the programs I create, and in turn, help 
-me read anyone else's. Being forced into doing things one way, is the best way to ensure readable code, and it will help other people help you because they can key in on the source of your issues without needing to pour in unecessary time actually 
-trying to read your code. While it may be a challenge for the individual, it is a boon for the group as a whole.
+Learning HTML, CSS, and Bootstrap has taught me how empowering it is to do front-end web development. I didn't believe I could so easily design something so similar to what a real website is using, but it's not as hard as I thought when
+frameworks are involved. Bootstrap has really abstracted away most of the issues with using classic HTML & CSS and makes it much easier to quickly develop a webpage. I feel like I learned an incredibly useful skill for the future, despite it being
+quite
+brief. Understanding how it all works
+underneath gives me
+the ability and confidence to
+read and
+implement
+changes when it
+comes to
+any webpage.
