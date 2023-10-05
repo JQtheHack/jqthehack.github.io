@@ -9,7 +9,7 @@ labels:
   - Web Development
 ---
 
-<img src="../images/bootstrap-main.png" alt="">
+<img src="../images/bootstrap-main.png" alt="" width="300px">
 
 ## HTML & CSS
 
