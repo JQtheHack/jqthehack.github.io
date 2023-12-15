@@ -7,6 +7,7 @@ date: 2023
 published: true
 labels:
   - C
+  - Programming
 summary: "A basic calculator for basic operations."
 ---
 
