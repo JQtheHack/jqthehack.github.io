@@ -4,7 +4,7 @@ type: project
 image: images/lahaina-logo(1).png
 title: "Envision Lahaina"
 date: 2023
-published: true
+published: false
 labels:
   - Web Development
   - Javascript
