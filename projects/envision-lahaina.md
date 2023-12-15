@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/envision-lahaina-page.png
+image: images/lahaina-logo(1).png
 title: "Envision Lahaina"
 date: 2023
 published: true
@@ -19,7 +19,7 @@ summary: "A website for creating civic engagement around rebuilding Lahaina."
 
 This project was created as an idea towards facilitating engagement and ways to help with the disaster that the wildfires created in Lahaina. On this website, users are able to create survey's and forum posts to facilitate engagement and rebuilding efforts towards Lahaina. The webpage also features AI image generation for envisioning future projects, an interactive map to pitch ideas towards building infrastructure, and finally external links on recent articles of the disaster. With this in mind, we hope that this project can spark efforts that benefit the community.
 
-<img width="500px" class="img-fluid" src="../images/envision-lahaina-page.png">
+<img width="500px" class="img-fluid" src="../images/generative-ai.png">
 
 ## Contributions
 
