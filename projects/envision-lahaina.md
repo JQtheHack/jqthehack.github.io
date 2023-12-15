@@ -27,7 +27,7 @@ In this project my role was to design the user interface and user experience to 
 
 ## My Experiences
 
-In this course, I learned that building software projects is challenging. However despite that challenge, I learned that persistence and hardwork will allow you to implement anything as long as you put your mind to it. The project featured many different technologies and challenges, but all these things are learnable due to the convenience of resources on the internet that allow you to work quickly and implement at a fast pace. In particular, I learned a lot about how to design webpages that are simple and functional, but look good. I also learned how fickle bugs are and how important patience is on any software project.
+In this project, I learned that building software is challenging. However despite that challenge, I learned that persistence and hardwork will allow you to implement anything as long as you put your mind to it. The project featured many different technologies and challenges, but all these things are learnable due to the convenience of resources on the internet that allow you to work quickly and implement at a fast pace. In particular, I learned a lot about how to design webpages that are simple and functional, but look good. I also learned how fickle bugs are and how important patience is on any software project.
 
 #### Related Links
 
