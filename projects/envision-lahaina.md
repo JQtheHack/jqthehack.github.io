@@ -13,7 +13,7 @@ labels:
 summary: "A website for creating civic engagement around rebuilding Lahaina."
 ---
 
-<img width="500px" class="img-fluid" src="../images/envision-lahaina-page.png">
+<img width="700px" class="img-fluid" src="../images/envision-lahaina-page.png">
 
 ## Overview
 
