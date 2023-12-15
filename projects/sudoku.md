@@ -4,7 +4,7 @@ type: project
 image: images/sudoku-square.png
 title: "Sudoku Solver"
 date: 2023
-published: true
+published: false
 labels:
   - Java
 summary: "A sudoku solver capable of solving any sudoku problem."
