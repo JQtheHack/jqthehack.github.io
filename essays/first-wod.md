@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Programming Quickly... Is A Challenge."
 date: 2023-09-04
-published: true
+published: false
 labels:
   - Programming
   - WOD
