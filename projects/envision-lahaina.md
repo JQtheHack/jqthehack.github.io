@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/sudoku-square.png
+image: images/envision-lahaina-page.png
 title: "Envision Lahaina"
 date: 2023
-published: false
+published: true
 labels:
   - Web Development
   - Javascript
@@ -13,7 +13,7 @@ labels:
 summary: "A website for creating civic engagement around rebuilding Lahaina."
 ---
 
-<img class="img-fluid" src="../images/sudoku-solver.PNG">
+<img class="img-fluid" src="../images/envision-lahaina-page">
 
 ## Overview
 
