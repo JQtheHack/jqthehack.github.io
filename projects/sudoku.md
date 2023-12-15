@@ -7,6 +7,7 @@ date: 2023
 published: true
 labels:
   - Java
+  - Programming
 summary: "A sudoku solver capable of solving any sudoku problem."
 ---
 
