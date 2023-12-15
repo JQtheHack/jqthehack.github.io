@@ -19,18 +19,16 @@ summary: "A website for creating civic engagement around rebuilding Lahaina."
 
 ## Contributions
 
+
+
 ## What I Learned
 
-## Related Links
+#### Related Links
 
-### Website Link
+<a href="https://github.com/envision-lahaina/">Organization Page</a>
 
-    https://envisionlahaina.com/
+<a href="https://envision-lahaina.github.io/envision-lahaina-/">Project Page</a>
 
-### Project Page
+<a href="https://github.com/envision-lahaina/envision-lahaina-app/">Github Repository </a>
 
-    https://envision-lahaina.github.io/envision-lahaina-/
-
-### Organization Page
-
-    https://github.com/envision-lahaina
+<a href="https://envisionlahaina.com/">Website Link </a>
