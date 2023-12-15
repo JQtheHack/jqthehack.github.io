@@ -4,7 +4,7 @@ type: project
 image: images/word-staircase-square.PNG
 title: "Word Staircase"
 date: 2023
-published: true
+published: false
 labels:
   - C
 summary: "A program that manipulates strings in various ways."
