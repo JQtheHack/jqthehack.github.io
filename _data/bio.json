@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Jeric Quintans",
+    "label": "Student",
+    "picture": "/images/profile.png",
+    "email": "jeric.quintansm@gmail.com",
+    "phone": "808-436-3493",
+    "website": "https://jqthehack.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jqthehack", "url": "https://github.com/JQtheHack" },
+      { "network": "linkedin", "username": "Jeric M Quintans", "url": "https://linkedin.com/in/jeric-m-quintans" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Cloud Computing" },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "MeteorJS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Linux", "Windows", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Student Office Assistant",
+      "website": "",
+      "startDate": "2023-04-19",
+      "endDate": "Present",
+      "summary": "Office assistant for the EALL department",
+      "highlights": [
+        "Perform data entry and organize both physical and electronic files.",
+        "Sort and distribute incoming mail and packages promptly."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
